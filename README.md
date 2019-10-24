@@ -1,6 +1,7 @@
-Some podcasts I love
+A list of good podcasts - please feel free to contribute via PR! 
 
 // TO DO
-- list of fiction podcasts
-- list of non-fiction podcasts
-- list of comedy podcasts
+[x]list of fiction podcasts
+[] list of general non-fiction podcasts
+[] list of comedy podcasts
+[] list of tech podcasts
