@@ -8,11 +8,8 @@
 - [Thrilling Adventure Hour](http://thrillingadventurehour.com/)
 - [Wooden Overcoats](https://www.woodenovercoats.com/)
 
-**Interview**
-Conan O'Brien Needs a Friend
-
-
-
+**Misc**
+- [Conan O'Brien Needs a Friend](https://www.earwolf.com/show/conan-obrien/)
 - [Mortified](http://getmortified.com/podcast/)
 
 **McElroy Family**
