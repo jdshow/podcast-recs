@@ -1,5 +1,1 @@
-TO DO
-- [x] list of fiction podcasts
-- [ ] list of general non-fiction podcasts
-- [ ] list of comedy podcasts
-- [ ] list of tech podcasts
+I like podcasts and you might too!
